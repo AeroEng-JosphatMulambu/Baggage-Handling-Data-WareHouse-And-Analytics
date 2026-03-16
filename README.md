@@ -1,2 +1,4 @@
-# Baggage-Handling-Data-WareHouse-And-Analytics
-Build a modern data warehouse using SQL SERVER to consolidate flight handling data enabling analytical reporting and informed decision making
+# Baggage-Handling-Data-WareHouse-And-Analytics Project
+Welcome to the **Baggage Handling Data WareHouse And Analytics Project** repository
+This project demonstrates a comprehensive data warehousing and analytics solution,
+from building a data warehouse to generating actionable insights.
