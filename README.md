@@ -8,14 +8,14 @@ from building a data warehouse to generating actionable insights.
 ### Building the Data WareHouse (Data Engineering)
 
 ### Objective
-Develop a modern data warehouse using **SQL SERVER** to consolidate **flight handling data** enabling analytical reporting and informed decision making.
+Develop a modern data warehouse using **SQL SERVER** to consolidate **flight baggage handling data** enabling analytical reporting and informed decision making.
 
 #### Specifications
--**Data Sources**: Import data from 3 sources (Flight handling report, Baggage make-up area baggage log, loading supervisor deployment)-all provided as **CSV files**.<br>
+-**Data Sources**: Import data from 3 sources (Flight handling report, Baggage sort area log, loading supervisor deployment)-all provided as **CSV files**.<br>
 -**Data Quality**: Clean and resolve data quality issues before analysis.<br>
--**Integration**: Combine the 3 sources into a single, user friendly data model designed for analytical queries.<br>
--**Scope**: No historization (SCDs), focus on latest data.<br>
--**Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.<br>
+-**Integration**: Combine the 3 sources into a single, user friendly SQL VIEW optimized for analytical queries.<br>
+-**Scope**: No historization (SCDs).<br>
+-**Documentation**: Provide clear documentation of the sql view to support both business stakeholders and analytics teams.<br>
 
 ### Analytics And Reporting
 
@@ -27,4 +27,5 @@ These insights empower stakeholders with key business metrics , enabling strateg
 
 
 ## About Me
-Hi there! I'm **Josphat Mulambu** 
+Hi there! I'm **Josphat Mulambu** <br>
+**B.ENG. AERONAUTICAL ENGINEERING**
