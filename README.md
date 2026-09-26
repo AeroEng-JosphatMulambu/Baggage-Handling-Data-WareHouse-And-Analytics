@@ -8,10 +8,10 @@ The project uses Excel, Microsoft SQL Server, and Power BI. The operational CSV 
 
 The current pipeline uses full batch ingestion, with Python planned as a future enhancement to automate and schedule daily data ingestion.
 
-## Objective
+# Objective
 Develop a modern data warehouse using **SQL SERVER** to consolidate **baggage handling data** enabling analytical reporting and data driven decision making.
 
-#### Specifications
+### Specifications
 -**Data Sources**: Import data from 3 sources (Flight handling report, Baggage sort area log, loading supervisor deployment)-all provided as **CSV files**.<br>
 -**Data Quality**: Clean and resolve data quality issues before analysis.<br>
 -**Integration**: Combine the 3 sources into a single, user friendly SQL VIEW optimized for analytical queries.<br>
@@ -20,6 +20,9 @@ Develop a modern data warehouse using **SQL SERVER** to consolidate **baggage ha
    These insights empower stakeholders with key business metrics, enabling strategic decision making.
 -**Scope**: No historization (SCDs).<br>
 -**Documentation**: Provide clear documentation of the sql view to support both business stakeholders and analytics teams.<br>
+
+# Architecture
+
 
 
 ## About Me
