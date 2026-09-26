@@ -22,6 +22,7 @@ Develop a modern data warehouse using **SQL SERVER** to consolidate **baggage ha
 -**Documentation**: Provide clear documentation of the sql view to support both business stakeholders and analytics teams.<br>
 
 # Architecture
+![image alt]()
 
 
 
