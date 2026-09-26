@@ -7,13 +7,9 @@ RampFlow is an aviation data engineering and analytics project built to transfor
 The project uses Excel, Microsoft SQL Server, and Power BI. The operational CSV datasets are ingested into SQL Server and processed through a Bronze, Silver, and Gold data architecture to store, clean, transform, and enrich the data for analytical use. The Gold layer is then consumed by Power BI and AD-HOC SEARCH to track ramp operations performance and support data-driven decision-making by ramp operations supervisors.
 
 The current pipeline uses full batch ingestion, with Python planned as a future enhancement to automate and schedule daily data ingestion.
-# Goals
 
-## Project Requirements
-### Building the Data WareHouse (Data Engineering)
-
-### Objective
-Develop a modern data warehouse using **SQL SERVER** to consolidate **flight baggage handling data** enabling analytical reporting and informed decision making.
+## Objective
+Develop a modern data warehouse using **SQL SERVER** to consolidate **baggage handling data** enabling analytical reporting and data driven decision making.
 
 #### Specifications
 -**Data Sources**: Import data from 3 sources (Flight handling report, Baggage sort area log, loading supervisor deployment)-all provided as **CSV files**.<br>
