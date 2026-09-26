@@ -24,6 +24,10 @@ Develop a modern data warehouse using **SQL SERVER** to consolidate **baggage ha
 # Architecture
 ![image alt](https://github.com/AeroEng-JosphatMulambu/Baggage-Handling-Data-WareHouse-And-Analytics/blob/main/images/Data%20Architecture.PNG?raw=true)
 
+# The Dataset
+
+
+
 
 
 ## About Me
