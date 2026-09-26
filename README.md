@@ -22,7 +22,7 @@ Develop a modern data warehouse using **SQL SERVER** to consolidate **baggage ha
 -**Documentation**: Provide clear documentation of the sql view to support both business stakeholders and analytics teams.<br>
 
 # Architecture
-![image alt](https://github.com/AeroEng-JosphatMulambu/Baggage-Handling-Data-WareHouse-And-Analytics/blob/main/images/Data%20Architecture.PNG?raw=true)
+![image alt](https://github.com/AeroEng-JosphatMulambu/rampflow-aviation-data-platform/blob/main/images/Data%20Architecture.PNG?raw=true)
 
 # The Dataset
 
