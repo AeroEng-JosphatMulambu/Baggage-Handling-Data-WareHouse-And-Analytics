@@ -25,7 +25,13 @@ Develop a modern data warehouse using **SQL SERVER** to consolidate **baggage ha
 ![image alt](https://github.com/AeroEng-JosphatMulambu/rampflow-aviation-data-platform/blob/main/images/Data%20Architecture.PNG?raw=true)
 
 # The Dataset
+The dataset consists of simulated ramp operations data covering 1,770 flight records from 1 November 2025 to 26 February 2026. It was selected because it closely relates to the ramp operations environment and provides an opportunity to apply data engineering and analytics to a real-world operational problem.
 
+What makes the dataset particularly useful is its ability to connect the aircraft arrival process with baggage handling and eventual baggage delivery to passengers, creating an end-to-end view of the baggage journey.
+
+However, the dataset has some limitations. It does not contain sufficient data points to explain the underlying causes of operational delays or calculate certain metrics, such as ramp readiness. These limitations will be documented rather than hidden, as they highlight opportunities for future data collection and pipeline enhancement.
+
+The goal is to transform the available data into reliable operational insights that can help monitor performance, identify potential bottlenecks, and support data-driven decision-making by ramp operations supervisors.
 
 
 
